@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PerformanceDemos</string>
+    <string name="checkbox">Eine Checkbox</string>
+    <string name="calc">Berechnen</string>
+    <string name="not_blocked">Nicht blockiert</string>
+    <string name="blocked">blockiert</string>
+    <string name="linear">LinearLayout</string>
+    <string name="relative">RelativeLayout</string>
+    <string name="hello">Hallo</string>
+    <string name="hint">ein Eingabefeld</string>
+</resources>
